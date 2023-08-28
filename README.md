@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @PR1NT3R
+Hi, PR1NT3R here.
+
+<!-- - 👋 Hi, I’m @PR1NT3R
 - 👀 I’m interested in...
-- 🌱 I’m currently learning...
+- 🌱 I’m currently learning... -->
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
