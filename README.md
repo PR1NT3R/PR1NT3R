@@ -4,7 +4,7 @@
 
 🎉 Fun fact: I'm fluent in three languages – Polish, English, and JavaScript! Yes, you read that right. 😉
 
-🎮 Let's connect on Discord too! You can find me as "ogniwo". Feel free to drop by and say hi!
+🎮 Let's talk/chat on Discord too! You can find me as "ogniwo". Feel free to drop by and say hi!
 
 🔗 Explore my site: [4thspace.pl](https://4thspace.pl)
 
